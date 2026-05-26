@@ -1,161 +1,184 @@
 <div align="center">
 
-# FABOYA OLAWALE DAVID
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   F A B O Y A   O L A W A L E   D A V I D                   ║
+║                                                               ║
+║   Engineer by craft. Security researcher by instinct.        ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-### Full-Stack Engineer • Cybersecurity Specialist • Penetration Tester
-
-<p>
-I build scalable systems, secure digital infrastructure, and identify vulnerabilities before attackers do.
-</p>
-
-<p>
-<a href="https://cloudy.pythonanywhere.com">Portfolio</a>
-•
-<a href="https://github.com/cloudy001-bit">GitHub</a>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Django+Developer;Cybersecurity+Specialist;Professional+Penetration+Tester;Building+Secure+Scalable+Systems" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Full-Stack+Django+Engineer;Penetration+Tester+%7C+Security+Researcher;I+build+things.+Then+I+break+them.+Then+I+build+them+better.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 01 — PROFILE
+## `whoami`
 
-I am a multidisciplinary technology professional focused on **software engineering, cybersecurity, and secure system architecture**.
+```python
+class Faboya:
 
-My work combines **building applications** and **breaking systems responsibly to make them stronger**.
+    name        = "Faboya Olawale David"
+    role        = ["Full-Stack Engineer", "Cybersecurity Specialist", "Penetration Tester"]
+    location    = "Nigeria 🇳🇬"
+    philosophy  = "Build securely. Think systemically. Break responsibly."
 
-I specialize in:
+    stack = {
+        "backend"   : ["Python", "Django", "Django REST Framework"],
+        "frontend"  : ["JavaScript", "HTML/CSS", "Tailwind CSS"],
+        "database"  : ["PostgreSQL"],
+        "security"  : ["Penetration Testing", "OSINT", "Vulnerability Assessment"],
+        "tools"     : ["Git", "Linux", "VSCode"],
+    }
 
-- Building scalable web applications
-- Backend architecture using Django
-- REST API development
-- Security testing & vulnerability assessment
-- Penetration testing methodologies
-- Secure application design
-- Workflow optimization & technical operations
-
----
-
-# 02 — CORE EXPERTISE
-
-### Software Engineering
-```txt
-Python
-Django
-Django REST Framework
-JavaScript
-HTML / CSS
-Tailwind CSS
-PostgreSQL
-Git & GitHub
-System Design
-```
-
-### Cybersecurity
-```txt
-Penetration Testing
-Web Application Security
-Reconnaissance
-Vulnerability Assessment
-OSINT
-Security Analysis
-Risk Identification
-Security Best Practices
+    def current_mission(self):
+        return [
+            "Architecting scalable, production-grade systems",
+            "Advancing penetration testing methodologies",
+            "Building secure digital products from the ground up",
+        ]
 ```
 
 ---
 
-# 03 — CURRENT TECH STACK
+## `cat skills.txt`
 
-<p align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,tailwind,postgresql,git,github,vscode,linux" />
-
-</p>
-
----
-
-# 04 — FEATURED PROJECTS
-
-## Crypto & Forex Intelligence Platform
-A digital platform for traders combining:
-
-- News aggregation
-- Market insights
-- Signals
-- Analytics
-- Educational resources
-
-**Stack:** Django • DRF • PostgreSQL • Tailwind
-
----
-
-## Unique You — Interior Platform
-Retail + service architecture for interior decoration services.
-
-Features include:
-
-- E-commerce
-- Booking system
-- Payment integration
-- Admin workflows
-
-**Stack:** Django • PostgreSQL • Paystack
-
----
-
-## Security Research & Pen Testing
-Practical cybersecurity work focused on:
-
-- Web application assessments
-- Reconnaissance
-- Vulnerability discovery
-- Security hardening
-- Risk analysis
-
----
-
-# 05 — GITHUB ANALYTICS
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cloudy001-bit&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudy001-bit&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=cloudy001-bit&hide_border=true" />
-</p>
-
----
-
-# 06 — PROFESSIONAL APPROACH
-
-```txt
-Build Securely.
-Think Systemically.
-Break Responsibly.
-Improve Continuously.
+### ⚙️ Engineering
+```
+► Python                    ████████████ expert
+► Django                    ████████████ expert
+► Django REST Framework     ███████████░ advanced
+► JavaScript                ████████░░░░ proficient
+► PostgreSQL                ████████░░░░ proficient
+► Tailwind CSS              ████████░░░░ proficient
+► System Design             ███████░░░░░ intermediate
 ```
 
+</td>
+<td valign="top" width="50%">
+
+### 🔐 Security
+```
+► Web App Penetration Testing  ████████████
+► Reconnaissance & OSINT       ████████████
+► Vulnerability Assessment      ███████████░
+► Security Hardening           ████████░░░░
+► Risk Analysis                ████████░░░░
+► Secure Architecture          ███████░░░░░
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
-# 07 — CURRENT FOCUS
+## `ls -la projects/`
 
-- Building scalable software systems
-- Advancing cybersecurity expertise
-- Strengthening penetration testing workflows
-- Improving architecture & performance
-- Developing secure digital products
+<details>
+<summary><strong>🔗 Crypto & Forex Intelligence Platform</strong></summary>
+
+> A sophisticated trading intelligence suite — because good trades start with better information.
+
+```
+What it does:
+  ├── Aggregates real-time market news & signals
+  ├── Delivers analytics dashboards for traders
+  ├── Serves educational resources for all levels
+  └── Provides market insights in one clean interface
+
+Tech Stack:
+  ├── Backend   → Django + Django REST Framework
+  ├── Database  → PostgreSQL
+  └── Frontend  → Tailwind CSS
+```
+
+</details>
+
+<details>
+<summary><strong>🏠 Unique You — Interior Decoration Platform</strong></summary>
+
+> Where retail meets service. A complete digital storefront for interior decoration.
+
+```
+What it does:
+  ├── E-commerce product catalog & checkout
+  ├── Service booking & scheduling system
+  ├── Paystack payment integration
+  └── Admin workflow & order management
+
+Tech Stack:
+  ├── Backend   → Django
+  ├── Database  → PostgreSQL
+  └── Payments  → Paystack
+```
+
+</details>
+
+<details>
+<summary><strong>🛡️ Security Research & Penetration Testing</strong></summary>
+
+> Not every vulnerability has a CVE. This is the work of finding the ones that don't.
+
+```
+Focus areas:
+  ├── Web application security assessments
+  ├── Active reconnaissance & attack surface mapping
+  ├── Vulnerability discovery & exploitation (authorized)
+  ├── Security hardening & remediation guidance
+  └── Risk documentation & reporting
+```
+
+</details>
 
 ---
 
-# 08 — CONNECT
+## `htop` — GitHub Activity
 
-### Portfolio
-https://cloudy.pythonanywhere.com
+<div align="center">
 
-### GitHub
-https://github.com/cloudy001-bit
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=cloudy001-bit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudy001-bit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com?user=cloudy001-bit&theme=dark&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=ff6b6b&currStreakLabel=00ff9c" />
+
+</div>
+
+---
+
+## `ping contact`
+
+<div align="center">
+
+| Channel | Link |
+|:-------:|:----:|
+| 🌍 Portfolio | [cloudy.pythonanywhere.com](https://cloudy.pythonanywhere.com) |
+| 🐙 GitHub | [github.com/cloudy001-bit](https://github.com/cloudy001-bit) |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   "The best way to secure a system                 │
+│    is to understand how to break it."              │
+│                                                     │
+│                         — Faboya Olawale David     │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=cloudy001-bit&style=flat-square&color=00ff9c&label=PROFILE+VIEWS)
+
+</div>
